@@ -1,6 +1,6 @@
 package com.javasucks;
 
-import com.javasucks.bloom.Bloom;
+import old.Bloom;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

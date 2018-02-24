@@ -1,4 +1,4 @@
-package com.javasucks.bloom;
+package old;
 
 
 public class Bloom {

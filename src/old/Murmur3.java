@@ -1,4 +1,4 @@
-package com.javasucks.bloom;
+package old;
 
 /**
  * Murmur3 is successor to Murmur2 fast non-crytographic hash algorithms.
